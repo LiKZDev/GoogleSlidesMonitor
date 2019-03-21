@@ -26,11 +26,11 @@ The current revision number for the google slides
 
 ### Running slides_checker.py using cron
 Add a cronjob to run the checker every minute 
-Open cron
+1. Open cron
 ```
 crontab -e
 ```
-Add the following line at the end of your crontab.
+2. Add the following line at the end of your crontab.
 
 **Note: To insert using the vim editor, press `i`. To save, type `!wq`**
 ```
