@@ -7,6 +7,11 @@ Download and copy slides_checker.py into your home directory
 cp slides_checker.py ~
 ```
 
+Install required libraries
+```
+pip install requests
+```
+
 ### Running slides_checker.py
 To run slides_checker.py, use the following command 
 ```
